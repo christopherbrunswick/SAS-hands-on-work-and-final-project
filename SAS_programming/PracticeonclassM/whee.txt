@@ -1,0 +1,12 @@
+1 portage 9  0 1    1 portage 10 0 1
+1 portage 11 0 1    1 portage 12 0 0
+2 kingston 9  1 1   2 kingston 10 2 1
+2 kingston 11 2 0   2 kingston 12 2 0
+3 kingston 9  0 1   3 kingston 10 0 0
+3 kingston 11 1 0   3 kingston 12 1 0
+4 portage 9  0 0    4 portage 10 0 1
+4 portage 11 0 1    4 portage 12 1 0
+5 kingston 9  0 0   5 kingston 10 1 0
+5 kingston 11 1 0   5 kingston 12 1 0
+6 portage 9  0 0    6 portage 10 1 0
+6 portage 11 1 0    6 portage 12 1 0

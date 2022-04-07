@@ -1,0 +1,4 @@
+Adams   M 16 4 TX 1995 114 Maple Ave.
+Phillip M 15 5 GA 1999 1320 Washington Drive
+Amanda  F 15 5 GA 1995 45 S.E. 14 Street
+Jane    F 14 4 SC 1999 301 Dana Street

@@ -1,0 +1,4 @@
+Adams   M 16 4 TX 1995
+Phillip M 15 5 GA 1999
+Amanda  F 15 5 GA 1995
+Jane    F 14 4 SC 1999
